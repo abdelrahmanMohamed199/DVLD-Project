@@ -1,0 +1,9 @@
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\bin\Debug\DVLD-BusinessTier.dll
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\bin\Debug\DVLD-BusinessTier.pdb
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\bin\Debug\DVLD-DataAccessTier.dll
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\bin\Debug\DVLD-DataAccessTier.pdb
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\obj\Debug\DVLD-BusinessTier.csproj.AssemblyReference.cache
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\obj\Debug\DVLD-BusinessTier.csproj.CoreCompileInputs.cache
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\obj\Debug\DVLD-Bus.B864A645.Up2Date
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\obj\Debug\DVLD-BusinessTier.dll
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-BusinessTier\obj\Debug\DVLD-BusinessTier.pdb

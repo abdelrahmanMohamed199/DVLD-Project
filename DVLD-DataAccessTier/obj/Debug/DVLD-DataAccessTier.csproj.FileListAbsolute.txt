@@ -1,0 +1,6 @@
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-DataAccessTier\bin\Debug\DVLD-DataAccessTier.dll
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-DataAccessTier\bin\Debug\DVLD-DataAccessTier.pdb
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-DataAccessTier\obj\Debug\DVLD-DataAccessTier.csproj.AssemblyReference.cache
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-DataAccessTier\obj\Debug\DVLD-DataAccessTier.csproj.CoreCompileInputs.cache
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-DataAccessTier\obj\Debug\DVLD-DataAccessTier.dll
+E:\programming\fundamentals\programming advices\C#_programs\DVLD-DataAccessTier\obj\Debug\DVLD-DataAccessTier.pdb
